@@ -25,7 +25,8 @@
         </div>
         <div class="footer-bottom">
             <p>&copy; <?= date('Y') ?> ResQ. All rights reserved.</p>
-            <p style="margin-top: 12px; font-size: 0.9rem; color: var(--muted);">Project by Gennady Gonzales - BSIS - 3B</p>
+            <p style="margin-top: 12px; font-size: 0.9rem; color: var(--muted);">Project by Gennady Gonzales, Sean Gaster De Loyola, Caidell Jake Flores - BSIS - 3B</p>
         </div>
     </div>
 </footer>
+
